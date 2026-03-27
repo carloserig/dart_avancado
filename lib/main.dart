@@ -2,7 +2,7 @@
 void main() {
   print('Iniciando estudo de funções');
   saudacao();
-  var s = somar(50, 50);
+  var s = somar(50, 100);
   print(s);
 }
 
