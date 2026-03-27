@@ -2,6 +2,7 @@
 void main() {
   print('Iniciando estudo de funções');
   saudacao();
+  print('Depois dA SAUDAÇÃO');
   var s = somar(50, 100);
   print(s);
 }
